@@ -31,13 +31,30 @@
 </p>
 
 ---
-### 🛠️ Tech Stack & Tools
+## 🛠️ Languages · Frameworks · Tools
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,py,excel,git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATABASE%20DESIGN-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DASHBOARDING-e6821e?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JOINS%20%26%20SUBQUERIES-006400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WINDOW%20FUNCTIONS-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLEAN%20CODE-000000?style=for-the-badge" />
+</p>
 
 
 ---
