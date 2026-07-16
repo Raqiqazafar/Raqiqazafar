@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/raqiqa-zafar" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:zraqiqa@gmail.com">
+  <a href="mailto:raqiqazafar@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Raqiqazafar" target="_blank">
