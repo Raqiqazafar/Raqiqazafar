@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raqiqa Zafar</h1>
-<h3 align="center">Data Analyst | CS Student | Turning Raw Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst | Turning Raw Data into Actionable Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raqiqazafar&label=Profile%20Views&color=8a2be2&style=flat" alt="profile views" />
