@@ -58,13 +58,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raqiqazafar&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Raqiqazafar&theme=tokyo-night&hide_border=true" alt="streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raqiqazafar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Raqiqazafar&theme=tokyonight&hide_border=true" alt="streak stats" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raqiqazafar&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raqiqazafar&theme=tokyo-night&hide_border=true" alt="contribution graph" />
 </p>
+
+---
 
 ### 🤝 Connect With Me
 
