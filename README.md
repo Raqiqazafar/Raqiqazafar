@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raqiqazafar&theme=tokyo-night&hide_border=true" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raqiqazafar&theme=tokyonight&hide_border=true" alt="contribution graph" />
 </p>
 
 ---
