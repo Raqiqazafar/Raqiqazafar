@@ -59,8 +59,8 @@ questions, and real deadlines.
 ### Projects
 
 **[E-Commerce Sales Dashboard](https://github.com/Raqiqazafar/E-Commerce-Sales-Dashboard)**
-Excel dashboard analyzing e-commerce sales, payments, fulfillment, and category performance — built to spot which categories drive revenue and where fulfillment is slipping.
-`Excel · Pivot Tables · Power Query`
+Excel dashboard on a Kaggle e-commerce dataset — $4.98B revenue across 582K orders. Found Net Banking and Women's Fashion as the two clearest revenue anchors, and flagged Returned/Canceled orders as a risk worth a category-level deep-dive.
+`Excel · Power Query · Pivot Tables`
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa210d46-5cff-48a1-9bc4-633d64303c49" width="700" alt="E-Commerce Sales Dashboard preview">
@@ -68,23 +68,35 @@ Excel dashboard analyzing e-commerce sales, payments, fulfillment, and category 
 
 <br>
 
+**[Personal Finance Dashboard](https://github.com/Raqiqazafar/Personal-Finance-Dashboard)**
+Excel dashboard on a Kaggle personal finance dataset — 78.54% savings rate, but income is 94.67% single-source (concentration risk) and Household spend is 2x any other category.
+`Excel · Power Query · Pivot Tables`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83cd3611-d340-4655-83d3-0d49e4a5f17b" width="700" alt="Personal Finance Dashboard preview">
+</p>
+
+<br>
+
+**[Quantium Retail Analytics](https://github.com/Raqiqazafar/Quantium-retail-analytics)**
+Forage virtual internship — analyzed 265K+ chip category transactions to identify the highest-value customer segment. Recommended targeting Mainstream–Young Singles/Couples with larger pack sizes, backed by a statistically significant t-test (p<0.05).
+`Python · Pandas · SciPy`
+
+<br>
+
+**[COVID-19 Global Data Exploration](https://github.com/Raqiqazafar/Covid-19-global-data-exploration)**
+SQL analysis of global case, death, and vaccination data using CTEs, temp tables, and window functions. Caught a subtle bug in my own query — a `MAX()` grouped by continent was silently answering "worst single country" instead of "continent-wide deaths."
+`SQL · CTEs · Window Functions`
+
+<br>
+
 **[Data Professional Survey Dashboard](https://github.com/Raqiqazafar/Data-professional-survey-dashboard)**
-Power BI dashboard exploring salary, happiness, and career trends across data roles from survey data.
+Power BI dashboard on 630 data professionals worldwide — 42.7% found breaking into the field difficult, and salary satisfaction (4.27/10) lags work/life balance satisfaction (5.74/10) industry-wide.
 `Power BI · DAX · Power Query`
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42e0b295-e570-490d-a739-5448654a3bf6" width="700" alt="Data Professional Survey Dashboard preview">
 </p>
-
-<br>
-
-**[COVID-19 Global Data Exploration](https://github.com/Raqiqazafar/Covid-19-global-data-exploration)**
-SQL exploratory analysis of global case, death, and vaccination data using CTEs, temp tables, and window functions.
-`SQL · CTEs · Window Functions`
-
-**[Quantium Retail Analytics](https://github.com/Raqiqazafar/Quantium-retail-analytics)**
-Data preparation and customer analytics for a virtual internship program — cleaned transaction-level retail data and analyzed customer segments to find purchasing patterns.
-`Python · Pandas · Jupyter Notebook`
 
 ---
 
