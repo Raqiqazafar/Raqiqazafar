@@ -35,23 +35,25 @@ questions, and real deadlines.
 
 ### Projects
 
-
 **[E-Commerce Sales Dashboard](https://github.com/Raqiqazafar/E-Commerce-Sales-Dashboard)**
 Excel dashboard analyzing e-commerce sales, payments, fulfillment, and category performance — built to spot which categories drive revenue and where fulfillment is slipping.
 `Excel · Pivot Tables · Power Query`
 
-<img width="1522" height="663" alt="Ecommerce Sales Dashboard" src="https://github.com/user-attachments/assets/7a3f0154-f29b-4b21-b46d-d075e4bf99f3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa210d46-5cff-48a1-9bc4-633d64303c49" width="700" alt="E-Commerce Sales Dashboard preview">
+</p>
 
-
-
+<br>
 
 **[Data Professional Survey Dashboard](https://github.com/Raqiqazafar/Data-professional-survey-dashboard)**
 Power BI dashboard exploring salary, happiness, and career trends across data roles from survey data.
 `Power BI · DAX · Power Query`
 
-<img width="1162" height="652" alt="Dashboard" src="https://github.com/user-attachments/assets/d6723d50-3668-4a17-8cfc-baa9581a5558" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42e0b295-e570-490d-a739-5448654a3bf6" width="700" alt="Data Professional Survey Dashboard preview">
+</p>
 
-
+<br>
 
 
 **[COVID-19 Global Data Exploration](https://github.com/Raqiqazafar/Covid-19-global-data-exploration)**
@@ -59,12 +61,9 @@ SQL exploratory analysis of global case, death, and vaccination data using CTEs,
 `SQL · CTEs · Window Functions`
 
 
-
-
 **[Quantium Retail Analytics](https://github.com/Raqiqazafar/Quantium-retail-analytics)**
 Data preparation and customer analytics for a virtual internship program — cleaned transaction-level retail data and analyzed customer segments to find purchasing patterns.
 `Python · Pandas · Jupyter Notebook`
-
 
 
 
