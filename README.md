@@ -66,6 +66,7 @@ Data preparation and customer analytics for a virtual internship program — cle
 `Python · Pandas · Jupyter Notebook`
 
 
+
 ---
 ### Reach me
 
