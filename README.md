@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Raqiqa 👋</h1>
-<h3 align="center">Data Analyst  — I clean messy data and turn it into dashboards people actually use</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raqiqa+%F0%9F%91%8B;Data+Analyst+(Fresher);I+turn+messy+data+into+decisions;Open+to+Remote%2FHybrid+Internships" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Raqiqazafar&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<h3 align="center">Data Analyst — I clean messy data and turn it into dashboards people actually use</h3>
 
 ---
 
@@ -22,7 +31,12 @@ questions, and real deadlines.
 
 ---
 
-### Skills
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,powerbi,py,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 | Area | Tools |
 |---|---|
@@ -30,6 +44,14 @@ questions, and real deadlines.
 | BI & dashboards | Power BI (DAX, Power Query), Excel (pivots, slicers, KPI dashboards) |
 | Data prep & scripting | Python (pandas, BeautifulSoup) |
 | Version control | Git / GitHub |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raqiqazafar&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</p>
 
 ---
 
@@ -55,22 +77,25 @@ Power BI dashboard exploring salary, happiness, and career trends across data ro
 
 <br>
 
-
 **[COVID-19 Global Data Exploration](https://github.com/Raqiqazafar/Covid-19-global-data-exploration)**
 SQL exploratory analysis of global case, death, and vaccination data using CTEs, temp tables, and window functions.
 `SQL · CTEs · Window Functions`
-
 
 **[Quantium Retail Analytics](https://github.com/Raqiqazafar/Quantium-retail-analytics)**
 Data preparation and customer analytics for a virtual internship program — cleaned transaction-level retail data and analyzed customer segments to find purchasing patterns.
 `Python · Pandas · Jupyter Notebook`
 
-
-
 ---
+
 ### Reach me
 
-📧 [raqiqazafar@gmail.com](mailto:raqiqazafar@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/raqiqa-zafar)
+<p align="center">
+  <a href="mailto:raqiqazafar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raqiqa-zafar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Open to remote/hybrid data analyst internships — happy to chat.
+<p align="center">Open to remote/hybrid data analyst internships — happy to chat.</p>
