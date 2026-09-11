@@ -43,6 +43,8 @@ Excel dashboard analyzing e-commerce sales, payments, fulfillment, and category 
 <img width="1522" height="663" alt="Ecommerce Sales Dashboard" src="https://github.com/user-attachments/assets/7a3f0154-f29b-4b21-b46d-d075e4bf99f3" />
 
 
+
+
 **[Data Professional Survey Dashboard](https://github.com/Raqiqazafar/Data-professional-survey-dashboard)**
 Power BI dashboard exploring salary, happiness, and career trends across data roles from survey data.
 `Power BI · DAX · Power Query`
@@ -51,11 +53,13 @@ Power BI dashboard exploring salary, happiness, and career trends across data ro
 
 
 
+
 **[COVID-19 Global Data Exploration](https://github.com/Raqiqazafar/Covid-19-global-data-exploration)**
 SQL exploratory analysis of global case, death, and vaccination data using CTEs, temp tables, and window functions.
 `SQL · CTEs · Window Functions`
 
-<!-- screenshot yahan add karna -->
+
+
 
 **[Quantium Retail Analytics](https://github.com/Raqiqazafar/Quantium-retail-analytics)**
 Data preparation and customer analytics for a virtual internship program — cleaned transaction-level retail data and analyzed customer segments to find purchasing patterns.
